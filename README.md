@@ -24,5 +24,4 @@ Objective: The primary and main objective of this project is to design and devel
 4.	Reporting and Analytics: The database will be able to generate reports and analytics on patients’ appointment scheduling trends, patient demographics, and other key factors to help optimize the hospital their operations.
 
 5.	Payment Tracking: The database will be able to track patients’ payments and billing information and will make it easier for the hospital office to manage their finances accurately.
-![image](https://github.com/shreyasd30/Data-Management-and-Database-Design-for-Hospitals/assets/56275546/1470e196-b6be-435a-aa73-ea206b6f5c16)
 
