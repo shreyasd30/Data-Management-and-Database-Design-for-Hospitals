@@ -1,4 +1,4 @@
-# Data-Management-and-Database-Design-for-Hospitals
+# Hospital Data - Management System
 
 
 # Data Management and Database Design Project
